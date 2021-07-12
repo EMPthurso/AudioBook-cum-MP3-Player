@@ -1,0 +1,4 @@
+I am reading the first line. Should I go to next Line?
+
+
+This is the second line with 2 new lines.
